@@ -1214,7 +1214,7 @@ export const leaderBoardData = [
     rank: 9,
     name: "Panisha Cardoza",
     batch: "B50-WD-Tamil",
-    learning: "69.10",
+    learning: "74.10",
   },
   {
     rank: 10,
